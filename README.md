@@ -1,5 +1,6 @@
 ### Hi there, I'm Priscila 👋
 Software Developer at [CI&T](https://ciandt.com/).
+
 I've been coding for 8 years.
 
 ### Hard Skills
