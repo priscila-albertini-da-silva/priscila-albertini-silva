@@ -1,5 +1,5 @@
 ### Hi there, I'm Priscila 👋
-Senior Software Developer at [CI&T](https://ciandt.com/).
+Senior Software Engineer at [CI&T](https://ciandt.com/).
 
 I've been coding for 8 years.
 
